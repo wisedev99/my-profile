@@ -1,0 +1,1 @@
+import o from"./Header.cf8a10ad.js";import{_ as a,l as n,q as r,m as s,H as c,F as _,k as l}from"./entry.f68c87f5.js";const m={},d={class:"bg-gradient-to-t from-black to-green-700 h-auto"};function f(e,u){const t=o;return l(),n(_,null,[r(t),s("main",d,[c(e.$slots,"default")])],64)}const g=a(m,[["render",f]]);export{g as default};

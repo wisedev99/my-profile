@@ -1,0 +1,1 @@
+import o from"./Main.e432a86b.js";import{_ as t,l as n,q as c,k as _}from"./entry.f68c87f5.js";const r={},s={class:"max-w-screen-xl mx-auto pt-[4rem] px-3"};function a(m,p){const e=o;return _(),n("div",s,[c(e)])}const d=t(r,[["render",a]]);export{d as default};
