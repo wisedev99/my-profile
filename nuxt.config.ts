@@ -1,5 +1,5 @@
 export default defineNuxtConfig({
-   devtools: { enabled: true },
+   devtools: { enabled: false },
   app: {
     head: {
       title: 'Profile site for visit resume',
