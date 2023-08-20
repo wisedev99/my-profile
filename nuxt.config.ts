@@ -1,4 +1,5 @@
 export default defineNuxtConfig({
+   devtools: { enabled: true },
   app: {
     head: {
       title: 'Profile site for visit resume',
@@ -27,13 +28,13 @@ export default defineNuxtConfig({
       {
         path: '~/components',
         pathPrefix: false,
-      },
+      }
     ],
   },
   css: ['@/assets/css/main.css'],
 
   modules: [],
-
+  plugins: ['~/plugins/typer.js'],
   postcss: {
     plugins: {
       tailwindcss: {},

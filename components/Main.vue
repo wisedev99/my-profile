@@ -14,7 +14,7 @@
             </div>
         </div>
         <div class="w-1/2">
-
+     <img src="@/assets/images/mountain-coffee.png" alt="">
         </div>
     </div>
 </template>
