@@ -34,7 +34,7 @@ export default defineNuxtConfig({
   css: ['@/assets/css/main.css'],
 
   modules: [],
-  plugins: ['~/plugins/typer.js'],
+  plugins: [],
   postcss: {
     plugins: {
       tailwindcss: {},
