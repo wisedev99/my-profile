@@ -10,8 +10,8 @@
                 <ul
                     class="flex flex-col p-4 md:p-0 mt-4 font-medium border  rounded-lg md:flex-row md:space-x-8 md:mt-0 md:border-0  dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
                     <li v-for="menu, i in menus" :key="i">
-                        <a 
-                            class="block py-2 pl-3 pr-4 text-white bg-green-700 rounded md:bg-transparent md:text-green-500 md:p-0 md:dark:text-green-500"
+                        <a
+                            class="block py-2 pl-3 pr-4 text-white bg-green-700 rounded md:bg-transparent md:p-0"
                             aria-current="page">{{ menu.name }}</a>
                     </li>
                 </ul>

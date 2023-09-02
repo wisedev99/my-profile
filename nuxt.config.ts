@@ -51,6 +51,4 @@ export default defineNuxtConfig({
   imports: {
     dirs: ['./middleware'],
   },
-
-
 });
