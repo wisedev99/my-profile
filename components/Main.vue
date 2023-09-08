@@ -33,7 +33,7 @@
 import { ref, onMounted } from 'vue'
 const currentIndex = ref(0)
 const currentIndeX2 = ref(0)
-const text = ref(`Salom aleykum everyone, Hey you know about full-stack Developer from tajikistan, that now work in Megafon-Tajikistan  I'm Aliakbar Bistov form Tajikistan,  `)
+const text = ref(`Salom aleykum everyone, Hey you know about full-stack Developer from tajikistan, that now work in Megafon-Tajikistan  I'm Aliakbar Boistov form Tajikistan,  `)
 // const typeTextWise = ref(`
 // <span>_%#/__________%#/%#/____________%#/__%#/______@@@@@@@@@x____________________________</span><br/>
 // <span>__%#/_________%#/_%#/__________%#/___%#/_______@@_____@@@______________________________</span><br/>
